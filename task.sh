@@ -8,10 +8,10 @@
 #       dir4
 mkdir -p task/dir1 task/dir2 task/dir3/dir4
  
-# изменяем текущую директорию на task
+# изменяем директорию на task
 cd task
  
-# создаём пустой файл task/dir2/empty
+# создаём файл task/dir2/empty
 touch dir2/empty
  
 # создаём файл task/dir2/hello.sh с таким содержанием:
